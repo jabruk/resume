@@ -1,3 +1,5 @@
-<div>
-    <!-- Because you are alive, everything is possible. - Thich Nhat Hanh -->
-</div>
+<li>
+    <a href="{{ $href }}" class="text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-12">
+        {{ $slot }}
+    </a>
+</li>
