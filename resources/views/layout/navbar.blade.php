@@ -17,7 +17,7 @@
             alt="logo"
             class="w-[48px] lg:w-[64px] hidden dark:inline-block"
           />
-          <span class="text-xl xl:text-2xl font-bold text-[#0c7187] dark:text-white">TheCodeholic</span>
+          <span class="text-xl xl:text-2xl font-bold text-[#0c7187] dark:text-white">TheGurCode</span>
         </a>
       </div>
       <div class="flex px-4 justify-end items-center w-full">
@@ -35,8 +35,10 @@
               @endforeach
 
               <div class="ml-0 lg:ml-10 xl:ml-16 relative top-1">
-                <div class="g-ytsubscribe" data-channelid="UC_UMEcP_kF0z4E6KbxCpV1w" data-layout="default"
-                     data-count="default"></div>
+                {{-- <div class="g-ytsubscribe" data-channelid="UCKY0S_HPvkSMxqH8kqSVL2A" data-layout="default"
+                     data-count="default"></div> --}}
+                     <script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-share-url="https://t.me/gurponika" data-size="large" data-text="notext"></script>
+
               </div>
             </ul>
           </nav>

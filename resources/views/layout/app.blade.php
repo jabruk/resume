@@ -10,6 +10,7 @@
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         @vite('resources/css/app.css')
         <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+        <script src="https://apis.google.com/js/platform.js" defer></script>
 
     </head>
     <body class="antialiased text-gray-800 dark:text-gray-200">
