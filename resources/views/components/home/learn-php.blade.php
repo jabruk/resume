@@ -13,14 +13,14 @@
               <img
                 src="{{ url('/img/php-logo.png') }}"
                 alt=""
-                class="rounded-2xl w-full"
+                class="rounded-2xl w-full animate-wiggle animate-infinite animate-ease-in-out"
               />
             </div>
             <div class="py-3 sm:py-4">
               <img
                 src="{{ url('/img/js-css-html.png') }}"
                 alt=""
-                class="rounded-2xl w-full"
+                class="rounded-2xl w-full animate-wiggle animate-infinite animate-ease-in-out"
               />
             </div>
           </div>
@@ -29,14 +29,14 @@
               <img
                 src="{{ url('/img/nginx.png') }}"
                 alt=""
-                class="rounded-2xl w-full"
+                class="rounded-2xl w-full animate-wiggle animate-infinite animate-ease-in-out"
               />
             </div>
             <div class="my-1 relative z-10">
               <img
                 src="{{ url('/img/docker.png') }}"
                 alt=""
-                class="rounded-2xl w-full"
+                class="rounded-2xl w-full animate-wiggle animate-infinite animate-ease-in-out"
               />
             </div>
             <div class="py-3 sm:py-4">
@@ -50,7 +50,7 @@
               <img
                 src="{{ url('/img/node.png') }}"
                 alt=""
-                class="rounded-2xl w-full"
+                class="rounded-2xl w-full animate-wiggle animate-infinite animate-ease-in-out"
               />
             </div>
           </div>
@@ -59,14 +59,14 @@
               <img
                 src="{{ url('/img/mysql.png') }}"
                 alt=""
-                class="rounded-2xl w-full"
+                class="rounded-2xl w-full animate-wiggle animate-infinite animate-ease-in-out"
               />
             </div>
             <div class="py-3 sm:py-4">
               <img
                 src="{{ url('/img/vue.png') }}"
                 alt=""
-                class="rounded-2xl w-full"
+                class="rounded-2xl w-full animate-wiggle animate-infinite animate-ease-in-out"
               />
             </div>
           </div>
