@@ -51,10 +51,10 @@
               In 2020 i have started to learn programming with <span class="text-amber-500 font-bold">JAVA</span>. I got the main programming base with this language.  
               But now, due to unexpected circumstances, I'm working with <span class="text-amber-500 font-bold">PHP</span> and I don't regret at all. <br />
             </p>
-            <x-button-link href="https://www.linkedin.com/in/jabruk/" variant="blue" target="_blank">
+            <x-button-link href="https://www.linkedin.com/in/jabruk/" variant="blue" target="_blank" class="mr-3 w-full mb-3 text-center lg:w-auto">
               View my LinkedIn
             </x-button-link>
-            <x-button-link href="https://plum-ruthe-76.tiiny.site/" variant="red" target="_blank">
+            <x-button-link href="https://plum-ruthe-76.tiiny.site/" variant="red" target="_blank" class="mr-3 w-full mb-3 text-center lg:w-auto">
                 View my old Resume
               </x-button-link>
           </div>
