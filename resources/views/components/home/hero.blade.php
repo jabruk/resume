@@ -40,9 +40,9 @@
               <img
                 src="{{ url('/img/me_hero.png') }}"
                 alt="hero"
-                class="max-w-full lg:ml-auto"
+                class="w-4/5 lg:ml-auto rounded-[70px]"
               />
-              <span class="absolute -left-8 -bottom-8 z-[-1]">
+              <span class="absolute -left-13 -bottom-6 z-[-1]">
                 <svg
                   width="93"
                   height="93"
@@ -84,3 +84,21 @@
     </div>
   </div>
   <!-- ====== Hero Section End -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
